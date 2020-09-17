@@ -1,21 +1,21 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Adittya Dey",
+    "occupation": "Full Stack Developer and Student",
+    "description": "Pre-Final Year CSE Undergrad and a Full Stack Developer",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "Pre-Final Year CSE Undergrad and a Full Stack Developer",
+    "contactmessage": "Get in touch with me to receive further details, collab or anything else.",
+    "email": "imadittyadey@hotmail.com",
+    "phone": "+91 7896186169",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Adabari Tiniali",
+      "city": "Guwahati",
+      "state": "Assam, India",
+      "zip": "781012"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://adittyadey.xyz",
+    "resumedownload": "https://adittyadey.xyz/files/CV_Adittya_Dey.pdf",
     "social": [
       {
         "name": "facebook",
